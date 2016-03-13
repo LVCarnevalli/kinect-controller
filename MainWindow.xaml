@@ -1,0 +1,35 @@
+﻿<Window x:Class="Microsoft.Kinect.Samples.CursorControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers" 
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        Name="windowKinect"
+        Title="Kinect" 
+        Height="294" 
+        Width="320" 
+        Loaded="carregarJanela" 
+        Closed="fecharJanela" 
+        StateChanged="alterarJanela"
+        WindowStartupLocation="Manual" 
+        ResizeMode="NoResize" 
+        ShowInTaskbar="False" 
+        Topmost="True" 
+        Visibility="Visible" WindowStyle="ToolWindow">
+
+    <Grid>
+        <Menu Grid.ColumnSpan="2">
+            <MenuItem Header="Configurações">
+                <MenuItem Header="_Canhoto" Name="objCanhoto" Click="canhoto_Click" />
+                <MenuItem Header="_Ocultar" Click="ocultar_Click" />
+            </MenuItem>
+            <MenuItem Header="Módulos">
+                <MenuItem Header="_Desativado" Name="objModuloDesativado" Click="moduloDesativado_Click" />
+                <MenuItem Header="_Mouse" Name="objModuloMouse" Click="moduloMouse_Click" />
+                <MenuItem Header="_Slide" Name="objModuloSlide" Click="moduloSlide_Click" />
+            </MenuItem>
+            <MenuItem Header="Sair" Click="sair_Click" />
+        </Menu>
+        <Image Width="320" Height="240" Name="kinectScreen" Grid.ColumnSpan="2" Margin="0,0,-6,-3" VerticalAlignment="Bottom"/>
+        <my:KinectSensorChooser Name="kinectSensor" Width="300" Grid.ColumnSpan="2" Margin="7,0" VerticalAlignment="Bottom"/>
+    </Grid>
+
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\Skull\Desktop\C Sharp\bin\Debug\CursorControl.ico
+C:\Users\Skull\Desktop\C Sharp\bin\Debug\Microsoft.Kinect.Samples.CursorControl.exe.config
+C:\Users\Skull\Desktop\C Sharp\bin\Debug\Microsoft.Kinect.Samples.CursorControl.exe
+C:\Users\Skull\Desktop\C Sharp\bin\Debug\Microsoft.Kinect.Samples.CursorControl.pdb
+C:\Users\Skull\Desktop\C Sharp\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Skull\Desktop\C Sharp\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\Microsoft.Kinect.Samples.CursorControl.csprojResolveAssemblyReference.cache
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\MainWindow.baml
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\App.g.cs
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\Microsoft.Kinect.Samples.CursorControl_Content.g.cs
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\Microsoft.Kinect.Samples.CursorControl_MarkupCompile.cache
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\Microsoft.Kinect.Samples.CursorControl.g.resources
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\Microsoft.Kinect.Samples.CursorControl.Properties.Resources.resources
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\Microsoft.Kinect.Samples.CursorControl.csproj.GenerateResource.Cache
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\Microsoft.Kinect.Samples.CursorControl.exe
+C:\Users\Skull\Desktop\C Sharp\obj\x86\Debug\Microsoft.Kinect.Samples.CursorControl.pdb
